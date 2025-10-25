@@ -1,0 +1,5 @@
+Question1: What Is The Sum Of 1 and 67?
+ Question2:   What Is Answer If we divide 9 by 3 ?
+ Question3: What Is Answer If We Mutiply 6 with 7?
+ Question4: What Is Answer If We square the number 4?
+ Question5: What Is Answer If We Take Square Root 36?
